@@ -35,4 +35,4 @@ else:
           print("you lose!")     
    
      else:
-          print("somthing went wrong!")   www  
+          print("somthing went wrong!")   
