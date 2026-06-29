@@ -5,7 +5,7 @@ import random
 -1 for  water
 0 for gun
 '''
-computer=random.choice([-1,0,1])111
+computer=random.choice([-1,0,1])11
 youstr= (input("enter you choice: "))
 youdict={"s": 1,"w": -1,"g": 0}
 reversedict={1 : "snake", -1 : "water", 0 : "gun"}
