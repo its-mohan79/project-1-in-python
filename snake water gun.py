@@ -35,4 +35,4 @@ else:
           print("you lose!")     
    
      else:
-          print("somthing went wrong!")   222
+          print("somthing went wrong!")   
